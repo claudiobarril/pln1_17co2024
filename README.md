@@ -27,6 +27,6 @@ Se entrena sobre un dataset de QA y se evalúa su desempeño para responder preg
 Colab: [lstm_chatbot_qa](https://colab.research.google.com/github/claudiobarril/pln1_17co2024/blob/main/Desafio_4.ipynb)
 
 ## Contacto
-email: claudiobarril@gmail.com\
+email: claudiobarril@gmail.com
 
 ## ¡Gracias!
